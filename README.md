@@ -7,9 +7,10 @@
 ## 🛠 Стек технологий
 
 - HTML
-- CSS
+- CSS 
 - TypeScript
 - React
 - Vite
 - Сanvas-confetti
 - GitHub Pages
+  
